@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WedApiAspForPostirushki", "WedApiAspForPostirushki\WedApiAspForPostirushki.csproj", "{5882FE4A-647B-4DC2-8199-F4291CF3B00F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5882FE4A-647B-4DC2-8199-F4291CF3B00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5882FE4A-647B-4DC2-8199-F4291CF3B00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5882FE4A-647B-4DC2-8199-F4291CF3B00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5882FE4A-647B-4DC2-8199-F4291CF3B00F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D3EAF17-7B39-4426-B5C5-6A675410CBC7}
+	EndGlobalSection
+EndGlobal
